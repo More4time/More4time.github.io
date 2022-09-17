@@ -1,0 +1,26 @@
+{
+    "name": "pokedex",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "cypress:open": "cypress open"
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "author": "Lautaro Moreno",
+    "license": "ISC",
+    "bugs": {
+      "url": ""
+    },
+    "homepage": "",
+    "dependencies": {
+      "bootstrap": "^5.2.0"
+    },
+    "devDependencies": {
+      "cypress": "^10.7.0"
+      
+    }
+  }
